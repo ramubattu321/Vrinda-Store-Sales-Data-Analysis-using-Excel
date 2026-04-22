@@ -1,5 +1,8 @@
 # Vrinda Store Sales Data Analysis 
 
+## Dashboard Preview
+![Dashboard](images/dashboard.png)
+
 ## Overview
 
 This project analyzes retail sales data from **Vrinda Store** to identify sales trends, customer purchasing behavior, and business performance insights. The analysis was performed using Microsoft Excel with pivot tables, charts, and dashboards.
