@@ -94,14 +94,6 @@ Vrinda-Store-Sales-Dashboard
 
 ---
 
-## Applications
-- Sales performance analysis  
-- Customer segmentation  
-- Marketing strategy optimization  
-- Business intelligence reporting  
-
----
-
 ## Author
 Ramu Battu  
 MS Data Analytics, California State University, Fresno
